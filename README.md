@@ -11,7 +11,7 @@
 - Github: https://github.com/EFWGithubMC/EvolveMC
 - Download (Password: 1145): https://pan.baidu.com/s/1QeU6Fs9v7YdMkhR3fspS0Q
 - My Bilibili channel: https://space.bilibili.com/1852434921
-- Change logs: ChangeLog.md
+- Change logs: https://github.com/EFWGithubMC/EvolveMC/blob/main/ChangeLog.md
 
 ## How to submit a valid bug report?
 1. Click the "Issues" button on the right side of the "<>Code" button
