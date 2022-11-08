@@ -1,5 +1,4 @@
 ![](/resources/title.png "")
-# 
 ## Perpose of this Github Page:
 #### REPORT BUGS!!!
 ***
