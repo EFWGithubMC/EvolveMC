@@ -1,4 +1,4 @@
-![](/resources/title.png "")
+![](/temp/resources/title.png "")
 
 ## What is EvolveMC
 1. It's a modpack by me, EastFlyWorld (obviously).
@@ -22,4 +22,4 @@
 - Have you modified the game
 - Explain what you experienced
 
-![](/resources/5.png "A screenshot :P")
+![](/temp/resources/5.png "A screenshot :P")
