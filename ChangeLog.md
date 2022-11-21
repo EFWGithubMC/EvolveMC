@@ -135,3 +135,30 @@
 3. 新的游戏加载界面
 4. Config改动
 5. zs改动
+
+## Alpha 0.10.5 Prelease 2
+1. 加入模组：
+- Ambience-1.12.2-1.7.8
+- ancientwarfare-1.12.2-2.7.0.1038
+- B3M-1.12.2-17
+- betterinvisibility-1.0.1
+- BiomeTweaker-1.12.2-3.2.369
+- BiomeTweakerCore-1.12.2-1.0.39
+- chargethrower-1.0.1
+- ConsoleHUD-v1.4.2-1.12.2
+- dropt-1.12.2-1.19.3
+- EnhancedSnowman-1.12-1.0.1
+- estop-1.12.1
+- fireproofitems-1.0
+- Frozen-Fiend-1.5.2
+- interactions-1.9.2
+- MAGE-0.2.4
+- mod-director-launchwrapper-1.5.1-SNAPSHOT-all
+- Modpack+Configuration+Checker-1.12.2-v1.9.5
+- randompatches-1.12.2-1.22.1.10
+- ReAuth-1.12-Forge-4.0.3
+- ResourceReloader-1.0.2.5
+- soundsystemreloader-1.0.0
+- unloader-1.2.0
+- Vials-MC1.12-1.2.1.5
+2. config changes
