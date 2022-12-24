@@ -230,3 +230,12 @@
 - ......
 - and so much more...
 
+## Alpha 0.10.5 Hotfix 1
+1. Bug fixes:
+- Fixed the bug that does not let you to set your respawn point.
+2. Added mod:
+- SleepingOverhaul-1.12.2-1.0.0-CoreModCompanion
+3. Removed mods:
+- bedbreakbegone
+- traverse
+
