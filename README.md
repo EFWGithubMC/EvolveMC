@@ -11,7 +11,7 @@
 - Github: https://github.com/EFWGithubMC/EvolveMC
 - Download (Password: 1145): https://pan.baidu.com/s/1QeU6Fs9v7YdMkhR3fspS0Q
 - My Bilibili channel: https://space.bilibili.com/1852434921
-- Change logs (Change logs are written in chinese): https://github.com/EFWGithubMC/EvolveMC/blob/main/ChangeLog.md
+- Change logs (Change logs are written in chinese, **mostly**): https://github.com/EFWGithubMC/EvolveMC/blob/main/ChangeLog.md
 
 ## Music used in game
 You can find the composer list under *MODPACK ROOT FOLDER\resources\Credits\credits-music.md*
@@ -24,5 +24,3 @@ You can find the composer list under *MODPACK ROOT FOLDER\resources\Credits\cred
 - Which version of the modpack you are using
 - Have you modified the game
 - Explain what you experienced
-
-![](/temp/resources/5.png "A screenshot :P")
