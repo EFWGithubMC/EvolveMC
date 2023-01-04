@@ -3,8 +3,8 @@
 ## What is EvolveMC
 1. It's a modpack by me, EastFlyWorld (obviously).
 2. This is a tech based modpack with some exploration mods.
-3. It is a awsome pack. (maybe) :P
-4. THE MODPACK IS STILL IN DEVELOPMENT
+3. THE MODPACK IS STILL IN DEVELOPMENT
+4. This modpack is based around Immersive Engineering, Nuclear Craft, Minecraft Comes Alive, and Galacticraft. Also, BLOODMOONS! Last, There will be a quest system in the future.
 
 ## Pages
 - MCBBS: https://www.mcbbs.net/thread-1377105-1-1.html
