@@ -13,6 +13,9 @@
 - My Bilibili channel: https://space.bilibili.com/1852434921
 - Change logs (Change logs are written in chinese): https://github.com/EFWGithubMC/EvolveMC/blob/main/ChangeLog.md
 
+## Music used in game
+You can find the composer list under *MODPACK ROOT FOLDER\resources\Credits\credits-music.md*
+
 ## How to submit a valid bug report?
 1. Click the "Issues" button on the right side of the "<>Code" button
 2. Click "New issue"
