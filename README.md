@@ -8,6 +8,7 @@
 
 ## Pages
 - MCBBS: https://www.mcbbs.net/thread-1377105-1-1.html
+- Curseforge: https://www.curseforge.com/minecraft/modpacks/evolvemc
 - Github: https://github.com/EFWGithubMC/EvolveMC
 - Download (Password: 1145): https://pan.baidu.com/s/1QeU6Fs9v7YdMkhR3fspS0Q
 - My Bilibili channel: https://space.bilibili.com/1852434921
