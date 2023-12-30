@@ -239,3 +239,24 @@
 - bedbreakbegone
 - traverse
 
+## Alpha 0.12
+1. Bug fixes:
+- fix main menu crash pop-ups
+- various bug fixes
+2. Added mods:
+- RTG-1.12.2-6.1.0.0-snapshot.1
+3. Removed mods:
+- estop
+- nomobspawningontrees
+- netherportalspread
+- savemystronghold
+- dynamicviewdistance
+- valkryienskies
+- cc tweaked
+- tenshilib
+- guideapi
+- integratedseries (a series of mods)
+4. Implemented item stages partly
+5. Tweaked crafting recipes
+6. Implemented quest system partly
+
