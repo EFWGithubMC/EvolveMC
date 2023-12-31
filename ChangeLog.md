@@ -260,3 +260,8 @@
 5. Tweaked crafting recipes
 6. Implemented quest system partly
 
+## Alpha 0.12.5
+1. Removed mods:
+- mod-director
+2. Players now have to manually install Optifine.
+3. Fixed unable to boot the game because mod Mod-Director not working properly. Solved by removing it.
