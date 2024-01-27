@@ -268,3 +268,14 @@
 
 ## Alpha 0.12.2
 1. Fix the wrong implementation of Real Block Physics
+
+# Alpha 0.13.0
+1. Increased game launch time out timer.
+2. Players will glow on death.
+3. First Aid effect tweak.
+4. Adjusted village spawn rate.
+5. Adjust mob spawn.
+6. Fully implemented item stages (still needs tweak).
+7. Recipe tweaks.
+8. Zen script files sorting.
+9. Added game stage "Operator" and its usage.
